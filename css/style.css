@@ -148,4 +148,25 @@ width: 100%;
 float: left;
 margin-bottom: 15px
 }
+.out-principal{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    padding: 20px;
+    height: 300px;
+    margin-bottom: 30px;
+}
+.useful-info-ul{
+list-style: none;
+}
+.useful-info-ul li{
+margin-bottom: 15px;
+border-bottom: 1px solid gray;
+padding-bottom: 15px;
 
+}
+.useful-info-ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
