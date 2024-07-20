@@ -137,6 +137,7 @@ margin-right: 10px;
     padding: 20px;
     height: 300px;
     margin-bottom: 30px;
+    overflow: hidden;
 }
 .notice-board-list{
 padding: 0px;
@@ -169,4 +170,70 @@ padding-bottom: 15px;
     text-decoration: none;
     color: black;
     font-weight: bold;
+}
+.governor-name{
+width: 100%;
+}
+.governor-designation{
+
+}
+.governor-img{
+
+}
+.width-40{
+    width: 40%;
+    float: left;
+}
+.width-60{
+width: 60%;
+float: left;
+}
+.gov-sec-style{
+    margin-bottom: 30px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 30px;
+
+}
+.governor-name{
+font-size: 15px;
+color: black;
+font-weight: bold;
+padding-left: 10px;
+margin-top: 20px;
+}
+.governor-designation{
+    font-size: 15px;
+    color: black;
+    padding-left: 10px;
+    margin-top: 6px;
+}
+.governor-img{
+    width: 100%;
+}
+.width-40{
+    width: 40%;
+    float: left;
+}
+.width-60{
+    width: 60%;
+    float: left;
+}
+
+.about-us{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    padding: 20px;
+    height: 300px;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+.certificate{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    padding: 20px;
+    height: 300px;
+    margin-bottom: 30px;
+    overflow: hidden;
 }
