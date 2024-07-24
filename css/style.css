@@ -9,7 +9,7 @@ body,html{
     background-color: #f0f3fa;
 }
 .container{
-    width: 1500px;
+    width: 100%;
     margin: 0px auto;
 }
 .width-100{
@@ -312,4 +312,26 @@ color: white;
 .footer-email{
     font-size: bold;
 
+}
+.social-media{
+list-style: none;
+margin-top: 10px;
+
+}
+.social-media li {
+float: left;
+padding: 0px 8px;
+}
+.social-media li a img{
+width: 30px;
+}
+.footer2-bachor{
+background-color: rgb(89, 89, 164);
+padding: 10px 0px;
+border-top: 1px solid white;
+}
+.footer2-content{
+font-size: 14px;
+color: white;
+text-align: center;
 }
